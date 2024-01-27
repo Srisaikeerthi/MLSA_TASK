@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/computer.png";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "A desktop with a computer and a guy trying to analyze";
 
 /**
  * Project list
@@ -31,22 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My blog website 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is my blog where I write about my learning and experiences as a tech aspirant .",
+    url: "https://srisaikeerthi.github.io/OIBSIP/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Calculator website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This is calculator website where I write .",
+    url: "https://github.com/Srisaikeerthi/OIBSIP/tree/main/calculator",
   },
   {
-    title: "My Resume Site",
+    title: "My linkedin profile",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This is my linked in profile where I share my learning certifications .",
+    url: "www.linkedin.com/in/adivishnu-sri-sai-keerthi-b7a369250",
   },
   {
     title: "GitHub Codespaces and github.dev",
