@@ -6,7 +6,7 @@
  */
 
 import React from "react";
-import arrowSvg from "../images/coast.jpg";
+import arrowSvg from "../images/down-arrow.svg";
 import PropTypes from "prop-types";
 
 /**
@@ -20,9 +20,9 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/woman-with-tablet.jpg";
+import image from "../images/coast.jpg";
 
-const imageAltText = "Adivishnu sri sai keerthi - web developer . This is a background photo of mountain";
+const imageAltText = "Adivishnu sri sai keerthi - web developer . This is a background photo of sea coast";
 
 const Home = ({ name, title }) => {
   return (
