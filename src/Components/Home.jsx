@@ -22,7 +22,7 @@ import PropTypes from "prop-types";
  */
 import image from "../images/coasts.jpg";
 
-const imageAltText = "Adivishnu sri sai keerthi - web developer . This is a background photo of sea coast";
+const imageAltText = "Adivishnu sri sai keerthi - web developer. This is a background photo of sea coast";
 
 const Home = ({ name, title }) => {
   return (
