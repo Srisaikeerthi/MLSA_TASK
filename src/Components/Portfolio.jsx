@@ -46,7 +46,7 @@ const projectList = [
     title: "My linkedin profile",
     description:
       "This is my linked in profile where I share my learning certifications .",
-    url: "www.linkedin.com/in/adivishnu-sri-sai-keerthi-b7a369250",
+    url: "https://www.linkedin.com/in/adivishnu-sri-sai-keerthi-b7a369250/",
   },
   {
     title: "GitHub Codespaces and github.dev",
