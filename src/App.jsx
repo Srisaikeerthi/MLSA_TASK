@@ -29,7 +29,7 @@ const siteProps = {
   email: "adivishnu.srisaikeerthi@studentambassadors.com",
   gitHub: "Srisaikeerthi",
   instagram: "",
-  linkedIn: "Adivishnu Sri Sai Keerthi",
+  linkedIn: "adivishnu-sri-sai-keerthi-b7a369250",
   medium: "",
   twitter: "",
   youTube: "",
